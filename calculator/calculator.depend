@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516596007 source:e:\project\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1517127265 source:e:\project\calculator\clculator2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
